@@ -1,12 +1,14 @@
 products=[
     {
         "id":1,
-        "title":'phone',
-        'price':12000
+        "price":"1000",
+        "brand":"vivo",
+        "title":"mobile",
     },
-     {
+    {
         "id":2,
-        "title":'iphone',
-        'price':62000
-    },
+        "price":"2000",
+        "brand":"Apple",
+        "title":"laptop",
+    }
 ]
